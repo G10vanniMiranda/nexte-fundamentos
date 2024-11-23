@@ -16,7 +16,7 @@ export default function Home() {
   return (
     <div>
       <div className=" flex justify-around items-center bg-blue-700 h-24">
-        <h1 className="bg-green-700 text-white px-10 py-2 rounded-md cursor-pointer">Hello World!</h1>
+        <h1 className="bg-black text-white px-10 py-2 rounded-md cursor-pointer">Hello World!</h1>
 
         <div className="flex items-center">
           <button className="bg-green-600 p-2 px-4 rounded-full -mr-3 cursor-pointer hover:scale-125 duration-300"
